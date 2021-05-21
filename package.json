@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ilya-Buyak/News.git"
+    "url": "git+https://github.com/MagicDeCore/NewsApp.git"
   },
-  "author": "Ilya Buyak",
+  "author": "Uladzimir Osipchyk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ilya-Buyak/News/issues"
+    "url": "https://github.com/MagicDeCore/NewsApp/issues"
   },
-  "homepage": "https://github.com/Ilya-Buyak/News#readme",
+  "homepage": "https://github.com/MagicDeCore/NewsApp#readme",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/node": "^7.14.2",
