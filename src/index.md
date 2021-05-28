@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Новости">
   <meta name="keywords" content="news,новости">
-  <meta name="author" content="Ilya Buyak">
+  <meta name="author" content="Uladzimir Osipchyk">
   <title>News</title>
   <link rel="shortcut icon" href="<%= require('./images/news-icon.png').default %>" type="image/x-icon">
   <link rel="stylesheet" href="<%= htmlWebpackPlugin.files.css %>">
@@ -13,7 +13,7 @@
 <body class="root">
 <div class="root__container">
   <header class="header">
-    <a class="logo" href="./index.html">News App</a>
+    <a class="logo" href="src/index.md">News App</a>
   </header>
   <section class="cover">
     <div class="cover__content">

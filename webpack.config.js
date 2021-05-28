@@ -56,8 +56,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       inject: false,
-      template: './src/index.html',
-      filename: 'index.html',
+      template: './src/index.md',
+      filename: 'index.md',
       chunks: ['main']
     }),
     new OptimizeCssAssetsPlugin({
